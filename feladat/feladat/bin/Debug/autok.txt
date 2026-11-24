@@ -1,0 +1,5 @@
+Rendszám;Márka;Modell;Évjárat;Ár
+ABC-123;BMW;320d;2020;15000
+DEF-456;Audi;A4;2019;12000
+GHI-789;Volkswagen;Golf;2022;10000
+JKL-012;Mercedes;C220;2021;18000
